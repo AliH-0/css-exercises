@@ -1,0 +1,25 @@
+ .one {
+    background-color: salmon;
+    font-size: 30px;
+}
+#two {
+    color: blue;
+        font-size: 70px;
+
+}
+.three {
+    font-weight: bold;
+    font-size: 50px;
+    background-color: salmon;
+    font-family: 'Times New Roman', Times, serif;
+}
+#four {
+    font-weight: bolder;
+    background-color: greenyellow;
+    font-size: 40px;
+}
+.five {
+    background-color: salmon;
+    font-size: 30px;
+
+}
